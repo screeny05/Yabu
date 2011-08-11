@@ -1,0 +1,21 @@
+C:\Users\Screeny\AppData\Local\Temporary Projects\BukkitUpdate\bin\Debug\BukkitUpdate.exe
+C:\Users\Screeny\AppData\Local\Temporary Projects\BukkitUpdate\bin\Debug\BukkitUpdate.pdb
+C:\Users\Screeny\AppData\Local\Temporary Projects\BukkitUpdate\bin\Debug\BukkitUpdate.xml
+C:\Users\Screeny\AppData\Local\Temporary Projects\BukkitUpdate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Screeny\AppData\Local\Temporary Projects\BukkitUpdate\obj\x86\Debug\BukkitUpdate.Resources.resources
+C:\Users\Screeny\AppData\Local\Temporary Projects\BukkitUpdate\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Screeny\AppData\Local\Temporary Projects\BukkitUpdate\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Screeny\AppData\Local\Temporary Projects\BukkitUpdate\obj\x86\Debug\BukkitUpdate.exe
+C:\Users\Screeny\AppData\Local\Temporary Projects\BukkitUpdate\obj\x86\Debug\BukkitUpdate.xml
+C:\Users\Screeny\AppData\Local\Temporary Projects\BukkitUpdate\obj\x86\Debug\BukkitUpdate.pdb
+d:\documents\visual studio 2010\Projects\BukkitUpdate\BukkitUpdate\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\BukkitUpdate\BukkitUpdate\obj\x86\Debug\BukkitUpdate.Resources.resources
+d:\documents\visual studio 2010\Projects\BukkitUpdate\BukkitUpdate\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\BukkitUpdate\BukkitUpdate\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\BukkitUpdate\BukkitUpdate\bin\Debug\YABU.exe.config
+D:\Documents\Visual Studio 2010\Projects\BukkitUpdate\BukkitUpdate\bin\Debug\Yabu.exe
+D:\Documents\Visual Studio 2010\Projects\BukkitUpdate\BukkitUpdate\bin\Debug\Yabu.pdb
+D:\Documents\Visual Studio 2010\Projects\BukkitUpdate\BukkitUpdate\bin\Debug\Yabu.xml
+D:\Documents\Visual Studio 2010\Projects\BukkitUpdate\BukkitUpdate\obj\x86\Debug\Yabu.exe
+D:\Documents\Visual Studio 2010\Projects\BukkitUpdate\BukkitUpdate\obj\x86\Debug\Yabu.xml
+D:\Documents\Visual Studio 2010\Projects\BukkitUpdate\BukkitUpdate\obj\x86\Debug\Yabu.pdb
